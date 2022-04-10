@@ -16,6 +16,12 @@ body, p {
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
+img {
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+
 h5 {
 	color: #32373e;
 	font: 600 1.25rem/1.75rem "Poppins", sans-serif;
